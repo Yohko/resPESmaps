@@ -1,0 +1,4 @@
+for Windows:
+i386-mingw32-g++ creator.cpp -o creator.exe
+Rest:
+g++ creator.cpp -o creator
